@@ -7,8 +7,8 @@
 
 Sou um estudante em transição de carreira para a área de tecnologia, atualmente me dedicando ao aprendizado de desenvolvimento Full Stack com Python na EBAC e cursando Sistemas de Informação na Uniasselvi.  
 
-💼 Estudante de Desenvolvedor Full Stack Python - Ebac
-📈 Estudante de Sistemas de Informação - Uniasselvi
+💼 Estudante de Desenvolvedor Full Stack Python - Ebac.
+📈 Estudante de Sistemas de Informação - Uniasselvi.
 💻 Explorando HTML, CSS, JavaScript e Python.  
 📚 Aprimorando conhecimentos em computação em nuvem e inteligência artificial.  
 🚀 Em busca de desafios e novas oportunidades para crescer na área de tecnologia.  
