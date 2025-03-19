@@ -13,8 +13,7 @@ Sou um estudante em transição de carreira para a área de tecnologia, atualmen
 📚 Aprimorando conhecimentos em computação em nuvem e inteligência artificial.  
 🚀 Em busca de desafios e novas oportunidades para crescer na área de tecnologia.  
 
-Conecte-se comigo no [LinkedIn](https://linkedin.com/in/helbert-guirra-lisboa)!  
-
+Conecte-se comigo no  
 
 
 
