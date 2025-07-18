@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from Salvador - Bahia  ....<br><br>- 🔭 I’m working as Análise de dados e Inteligencia Artificial ...<br>- 📚 I'm currently learning Denvolvimento Full Stack Python ...<br>- ⚡ In my free time I leio livros e estudando logica de programação em python ...</p>
 
 ###
 
